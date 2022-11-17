@@ -1,4 +1,4 @@
-public class EvenAndOddNum {
+public class EvenAndOddNum   {
     public static void main(String[] args) {
         int num[] = {1,2,5,4,8,44,32,25,10,99,9};
 
